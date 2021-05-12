@@ -48,7 +48,7 @@
     "gulp-stylus": "^2.7.0",
     "less": "^3.8.1",
     "node-sass": "^4.10.0",
-    "postcss": "^7.0.6",
+    "postcss": "^8.2.10",
     "postcss-nested": "^4.1.0",
     "postcss-prettify": "^0.3.4",
     "stylelint": "^9.8.0",
